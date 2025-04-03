@@ -1,1 +1,1 @@
-This repository is dedicated for releasing the implementation of the models utilized in the paper named Mol-L2: Transferring Text Knowledge with Frozen Large Language Models for Molecular Representation Learning.
+This repository is dedicated for releasing the implementation of the models utilized in the paper named **Mol-L2: Transferring Text Knowledge with Frozen Large Language Models for Molecular Representation Learning**.

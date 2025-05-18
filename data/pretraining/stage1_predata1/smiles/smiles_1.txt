@@ -1,0 +1,1 @@
+CC(=O)OC(CC(=O)[O-])C[N+](C)(C)C

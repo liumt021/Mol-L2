@@ -27,7 +27,6 @@ All data used in this paper are uploaded and can be accessed.
 
 
 ## To run the training procedure
-- Run conda env create -f environment.yaml to set up the environment.
 - Run pretrains.py to pre-train the model.
 - Run pretrains.py to finetuning the model.  
 
